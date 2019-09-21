@@ -16,6 +16,8 @@ eureka:
       defaultZone: http://localhost:9010/eureka/
 
 spring:
+  profiles:
+    active: dev
   datasource:
     druid:
       #########################################################
