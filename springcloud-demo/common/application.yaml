@@ -1,0 +1,3 @@
+config:
+  file:
+    desc: "this is application.yaml in common path!"
