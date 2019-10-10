@@ -1,1 +1,3 @@
-
+config:
+  file:
+    desc: "this is application.yaml in business path!"
